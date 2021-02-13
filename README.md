@@ -90,6 +90,7 @@ C is the widely used language. It provides many features that are given below.
 
 ## Structure of C language
 ------------------------------------
+### Simple C program to print Hello World
 ```c
 // This program prints hello world.
 // Author - Prashant Bhandari  
@@ -101,7 +102,26 @@ int main()
 }
 ```
 
-Following is the basic structure of a C program.
+**Following is the basic structure of a C program.**
+
+```C
+/*comments*/
+preprocessor directives
+global variable declaration;
+int main()
+{
+    local declarations;
+    executable statements;
+    .
+    .
+    .
+    return(0);
+}
+userdefined function()
+{
+    function difinition;    
+}
+```
 
 |                     |                                                                                                                                   |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------- |
