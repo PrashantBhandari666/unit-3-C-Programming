@@ -126,7 +126,7 @@ _The sub-program section deals with all user-defined functions that are called f
 ## Compiling process
 ----------------------------
 
-![Process](photos/photo1.png)
+![Process](photos/photo.png)
 
 _The compilation is a process of converting the source code into object code. It is done with the help of the compiler. The compiler checks the source code for the syntactical or structural errors, and if the source code is error-free, then it generates the object code._
 
