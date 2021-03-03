@@ -84,7 +84,7 @@ C is the widely used language. It provides many features that are given below.
 
 4. ### **Lack of Exception Handling:** _Exception Handling is one of the most important features of programming languages. While compiling the code, various anomalies and bugs can occur. Exception Handling allows you to catch the error and take appropriate responses. However, C does not exhibit this important feature._
 
-5. ### **Constructor or destructor:** _C does not have any constructor or destructor.__Constructors & Destructors support basic functionality of Object Oriented Programming. Both are member functions that are created as soon as an object of the class is created. You will be studying constructor and destructor in detail later on._
+5. ### **Constructor or destructor:** _C does not have any constructor or destructor.Constructors & Destructors support basic functionality of Object Oriented Programming. Both are member functions that are created as soon as an object of the class is created. You will be studying constructor and destructor in detail later on._
 
 6. ### **Low level of abstraction:** _C is a small and core machine language that has minimum data hiding and exclusive visibility that affects the security of this language._
 
