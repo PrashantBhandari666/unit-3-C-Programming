@@ -360,14 +360,14 @@ _A string is an array of characters ended with a null character(\0). This null c
 _Let us see how to declare String in C language :_
 
  ```C 
- char string[20] = {‘s’,’t’,’u’,’d’,’y’, ‘\0’};
- ```
+ char str[20] = {‘s’,‘t’,‘u’,‘d’,‘y’, ‘\0’};
  ```C
  char string[20] = “demo”;
  ```
  ```C
  char string [] = “demo”;
  ```
+ 
 ### **Special Symbols** 
 _The following special symbols are used in C having some special meaning and thus, cannot be used for some other purpose.For eg:[] () {} , ; * = # etc_
 
@@ -418,3 +418,4 @@ In C programming language, there are 256 numbers of characters in character set.
 | ``\nnn``      |   octal number      |
 | ``\xhh``      |   hexadecimal number|
 | ``\0``        |   Null              |
+
