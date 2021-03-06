@@ -361,6 +361,7 @@ _Let us see how to declare String in C language :_
 
  ```C 
  char str[20] = {‘s’,‘t’,‘u’,‘d’,‘y’, ‘\0’};
+ ```
  ```C
  char string[20] = “demo”;
  ```
